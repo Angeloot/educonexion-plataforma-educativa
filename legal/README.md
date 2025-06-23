@@ -1,4 +1,4 @@
-EDUCONEXIÓN: Plataforma de apoyo digital para fortalecer la educación panameña en zonas vulnerables
+Proyecto - Eco Educa Panamá: Plataforma de apoyo digital para fortalecer la educación panameña en zonas vulnerables
 Público objetivo:
 Estudiantes y docentes de zonas rurales y vulnerables de Panamá que enfrentan limitaciones tecnológicas y falta de acceso a recursos educativos digitales.
 
